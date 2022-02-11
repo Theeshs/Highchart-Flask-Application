@@ -25,7 +25,7 @@ mysql-connector-python==8.0.19
 mysqldbModel==1.1.0
 passlib==1.7.1
 pbr==3.1.1
-protobuf==3.6.1
+protobuf==3.15.0
 psycopg2-binary==2.8.4
 PyMySQL==0.9.3
 PyMysqlDB==0.0.2
